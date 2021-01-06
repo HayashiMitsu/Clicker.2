@@ -26,6 +26,6 @@ des.addEventListener('click', () =>{
 reset.addEventListener('click', ()=>{
     i = 0;
     n = +1;
-    num.textContent = n;
+    num.textContent = i;
     btn.textContent = `+${n}`;
 })
